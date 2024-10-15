@@ -29,6 +29,8 @@
    href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://socket.io/images/logo.svg" alt="socket" width="35" height="35"/> </p>
    
 <h4 align="left">Other</h4>
-<p href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" </p>
+<p href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
 
+<h4 align="left">Game Release</h4>
+<p href="https://www.facebook.com/mageslegacy/" target="_blank" rel="noreferrer"> <img src="https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/448891066_122149251746231551_843009142332582786_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=TtzCdZkwtTUQ7kNvgFYPeiQ&_nc_zt=23&_nc_ht=scontent.fsgn5-5.fna&_nc_gid=AQKxVJ5NJ46IV79Dyp8Ho6Y&oh=00_AYCpUPk2uCNSMO5aE8nddb0OQ9-blxUdYdz3NwL6UiSUWg&oe=6713D9EF" alt="Mage's legacy" width="40" height="40" <h3 align="center"> Mage's legacy: PC, IOS</h3> </p>
 
