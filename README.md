@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Le Minh Duong</h1>
 <h3 align="center">A passionate Game developer from Vietnam(HCM city)</h3>
 
-<h3 align="left">Skill</h3>
-
 <h4 align="left">Programming Languages</h4>
 <p href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </p>
   
