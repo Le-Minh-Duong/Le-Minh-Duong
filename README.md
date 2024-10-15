@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Le Minh Duong Lê Minh Dương</h1>
+<h1 align="center">Hi 👋, I'm Le Minh Duong</h1>
 <h3 align="center">A passionate Game developer from Vietnamese</h3>
 
 <h3 align="left">Skill</h3>
