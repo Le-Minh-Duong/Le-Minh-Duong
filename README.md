@@ -21,6 +21,11 @@
 <h4 align="left">Database</h4>
 <p href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="60" height="60"/> </p>
 
+<h4 align="left">Font Development</h4>
+<p href="https://www.html.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"
+   href="https://www.css.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css" width="40" height="40"
+   href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> </p>
+
 <h4 align="left">Backend Development</h4>
 <p href="https://nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"
    href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"
@@ -30,5 +35,4 @@
 <p href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </p>
 
 <h4 align="left">Game Release</h4>
-<p href="https://www.facebook.com/mageslegacy/" target="_blank" rel="noreferrer"> <img src="https://scontent.fsgn5-5.fna.fbcdn.net/v/t39.30808-6/448891066_122149251746231551_843009142332582786_n.jpg?stp=cp6_dst-jpg&_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=QyxoIMalA04Q7kNvgE5zNA5&_nc_zt=23&_nc_ht=scontent.fsgn5-5.fna&_nc_gid=AEOgUoBjIEmZxuVYNtDlqZi&oh=00_AYBE03gu85f2hnYiSnkX1epDmdV78fsUd7L0mpLfRSV3HQ&oe=674236AF" alt="Mage's legacy" width="40" height="40" <h3 align="center"> Mage's legacy: PC, IOS</h3> </p>
-
+<p <h3> Mage's legacy: PC, Android, IOS</h3> </p>
